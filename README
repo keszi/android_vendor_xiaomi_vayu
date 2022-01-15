@@ -1,0 +1,2 @@
+# This folder is the whole vendor partition from lineage-18.1-20220114-nightly-vayu-signed.zip
+# Run the extract-files.sh from the device tree and copy-paste the missing pieces from here.
